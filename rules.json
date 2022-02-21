@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Aged Brie",
+    "step": 1,
+    "step_date_passed": 2
+  },
+  {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "allow_sale": false
+  },
+  {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "step_table": [
+      [0, 5, 3],
+      [6, 10, 2],
+      [11, 1000, 1]
+    ],
+    "quality_date_passed": 0
+  },
+  {
+    "name": "Conjured Mana Cake",
+    "step": -2,
+    "step_date_passed": -4
+  }
+]
